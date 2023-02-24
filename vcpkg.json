@@ -1,0 +1,8 @@
+{
+  "name": "ra3-battlenet-nativedll",
+  "version-string": "0.0.1",
+  "dependencies": [
+    "wil"
+  ],
+  "builtin-baseline": "12c2a93b4007612b5ffa980c9d2235eb0bcac10f"
+}
